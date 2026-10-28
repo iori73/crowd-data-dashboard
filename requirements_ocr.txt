@@ -8,7 +8,7 @@ easyocr==1.7.1
 pytesseract==0.3.10
 
 # 画像処理ライブラリ
-Pillow==10.4.0
+Pillow==13.0.0
 
 # その他の依存関係
 opencv-python==4.10.0.84
